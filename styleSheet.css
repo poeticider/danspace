@@ -1,7 +1,11 @@
 * {
   background-color: orange;
   }
-  
+
+body { background-image:href='https://tenor.com/view/gandalf-sax-guy-gif-18663354';
+       background-repeat:repeat; 
+}
+
  h1 {
   font-family: arial;
   }
