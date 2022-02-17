@@ -2,7 +2,11 @@
   background-color: orange;
   }
   
- h1,
- p {
+ h1 {
   font-family: arial;
   }
+p  {
+  font-family: arial;
+  font-size: 30px;
+  }
+
